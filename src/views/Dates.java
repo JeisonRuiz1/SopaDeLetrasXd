@@ -8,6 +8,9 @@ public class Dates {
 				"2. Escribir una palabra" + '\n' + 
 				"3. Ver número palabras faltantes" + '\n' + 
 				"4. Ver número palabras encontradas" + '\n' + 
+				"4. Ver número palabras encontradas" + '\n' + 
+				"4. Ver número palabras encontradas" + '\n' + 
+				"4. Ver número palabras encontradas" + '\n' + 
 				"5. Salir", "Menú principal", JOptionPane.DEFAULT_OPTION);
 		int option1 = Integer.parseInt(option);
 		return option1;
